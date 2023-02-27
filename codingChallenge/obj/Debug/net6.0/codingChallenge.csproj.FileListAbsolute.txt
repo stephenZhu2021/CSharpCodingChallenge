@@ -1,0 +1,15 @@
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\bin\Debug\net6.0\codingChallenge.exe
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\bin\Debug\net6.0\codingChallenge.deps.json
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\bin\Debug\net6.0\codingChallenge.runtimeconfig.json
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\bin\Debug\net6.0\codingChallenge.dll
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\bin\Debug\net6.0\codingChallenge.pdb
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\codingChallenge.csproj.AssemblyReference.cache
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\codingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\codingChallenge.AssemblyInfoInputs.cache
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\codingChallenge.AssemblyInfo.cs
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\codingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\codingChallenge.dll
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\refint\codingChallenge.dll
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\codingChallenge.pdb
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\codingChallenge.genruntimeconfig.cache
+C:\Users\zhuxc\source\repos\codingChallenge\codingChallenge\obj\Debug\net6.0\ref\codingChallenge.dll
