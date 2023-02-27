@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zhuxc\\source\\repos\\codingChallenge\\codingChallenge\\codingChallenge.csproj": {}
+    "E:\\desktop\\GitRepo\\CSharpCodingChallenge\\codingChallenge\\codingChallenge.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zhuxc\\source\\repos\\codingChallenge\\codingChallenge\\codingChallenge.csproj": {
+    "E:\\desktop\\GitRepo\\CSharpCodingChallenge\\codingChallenge\\codingChallenge.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zhuxc\\source\\repos\\codingChallenge\\codingChallenge\\codingChallenge.csproj",
+        "projectUniqueName": "E:\\desktop\\GitRepo\\CSharpCodingChallenge\\codingChallenge\\codingChallenge.csproj",
         "projectName": "codingChallenge",
-        "projectPath": "C:\\Users\\zhuxc\\source\\repos\\codingChallenge\\codingChallenge\\codingChallenge.csproj",
+        "projectPath": "E:\\desktop\\GitRepo\\CSharpCodingChallenge\\codingChallenge\\codingChallenge.csproj",
         "packagesPath": "C:\\Users\\zhuxc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zhuxc\\source\\repos\\codingChallenge\\codingChallenge\\obj\\",
+        "outputPath": "E:\\desktop\\GitRepo\\CSharpCodingChallenge\\codingChallenge\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zhuxc\\AppData\\Roaming\\NuGet\\NuGet.Config",
