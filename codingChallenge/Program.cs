@@ -17,17 +17,9 @@ namespace codingChallenge
             List<IVehicle> sortedList = vehicleList.OrderBy(a => a.GetType().Name).ToList();
 
             // output to the console
-            int vehicleNumber = 1;
             foreach (IVehicle vehicle in sortedList)
             {
-                if(vehicle is GasVehicle gas)
-                {
-                    Util.OutputMessage(gas, vehicleNumber++, "Engine Size", gas.EngineSize);
-                }
-                else if(vehicle is ElectricVehicle electric)
-                {
-                    Util.OutputMessage(electric, vehicleNumber++, "Motor Type", electric.MotorType);
-                }
+                vehicle.ShowMessage();
             }
         }
     }

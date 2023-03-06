@@ -23,5 +23,6 @@ namespace codingChallenge
         {
             return DateTime.Now.Year - YearBuild;
         }
+        public abstract void ShowMessage();
     }
 }

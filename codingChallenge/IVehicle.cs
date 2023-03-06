@@ -9,13 +9,10 @@ namespace codingChallenge
     public interface IVehicle
     {
         string Color { get; set; }
-
         string Manufacturer { get; set; }
-
         string Model { get; set; }
-
         int YearBuild { get; set; }
-
         int Calculate();
+        void ShowMessage();
     }
 }
